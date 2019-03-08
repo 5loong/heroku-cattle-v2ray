@@ -11,7 +11,7 @@
     "protocol": "shadowsocks",
     "settings": {
       "method": "aes-256-cfb",
-      "password": "qazxswedc"
+      "password": "5loong"
     },
     "streamSettings": {
       "network":"ws"
